@@ -1,4 +1,10 @@
-# shopify-challenge
+# Shopfiy Front End 2022 Challenge
+Spacestagram! See it working in action
+https://shopify-fe-challenge-2022.netlify.app/
+
+## Features Included:
+- Loading State when fetching initial data (loads quite fast so you might not see it)
+- Animated heart for liking specific photos
 
 ## Project setup
 ```
@@ -14,11 +20,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
